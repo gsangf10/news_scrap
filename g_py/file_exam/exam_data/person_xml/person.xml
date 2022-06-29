@@ -1,0 +1,26 @@
+<datas>
+    <persons>
+        <person id=1 class="hong">
+            <name>홍길동</name>
+            <age>22</age>
+            <home>서울</home>
+        </person>
+        <person id=2 class="lee">
+            <name>이순신</name>
+            <age>32</age>
+            <home>대전</home>
+        </person>
+    </persons>
+    <Dogs>
+        <Dog id=3 class="hong">
+            <name>맥스</name>
+            <age>5</age>
+            <kind>푸들</kind>
+        </Dog>
+        <Dog id=4 class="lee">
+            <name>아리</name>
+            <age>3</age>
+            <kind>진돗개</kind>
+        </Dog>
+    </Dogs>
+</datas>
